@@ -1,0 +1,12 @@
+D:\DotNet Project\Own Development\API\SundayApp\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\DotNet Project\Own Development\API\SundayApp\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\DotNet Project\Own Development\API\SundayApp\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\DotNet Project\Own Development\API\SundayApp\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\DotNet Project\Own Development\API\SundayApp\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\DotNet Project\Own Development\API\SundayApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+D:\DotNet Project\Own Development\API\SundayApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\DotNet Project\Own Development\API\SundayApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\DotNet Project\Own Development\API\SundayApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\DotNet Project\Own Development\API\SundayApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+D:\DotNet Project\Own Development\API\SundayApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\DotNet Project\Own Development\API\SundayApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

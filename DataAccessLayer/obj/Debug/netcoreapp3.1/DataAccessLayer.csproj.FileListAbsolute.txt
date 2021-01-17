@@ -1,0 +1,9 @@
+D:\DotNet Project\Own Development\API\SundayApp\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+D:\DotNet Project\Own Development\API\SundayApp\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\DotNet Project\Own Development\API\SundayApp\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\DotNet Project\Own Development\API\SundayApp\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\DotNet Project\Own Development\API\SundayApp\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\DotNet Project\Own Development\API\SundayApp\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+D:\DotNet Project\Own Development\API\SundayApp\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\DotNet Project\Own Development\API\SundayApp\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\DotNet Project\Own Development\API\SundayApp\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb

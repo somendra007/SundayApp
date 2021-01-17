@@ -1,0 +1,1 @@
+﻿Data Source=DESKTOP-1NH0GVS;Initial Catalog=CoreDb;Persist Security Info=True;User ID=sa;Password=somendra;
